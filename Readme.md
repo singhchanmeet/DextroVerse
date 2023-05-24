@@ -1,18 +1,8 @@
-https://devils-mait.github.io/Dextroverse
+This site was made for BFF(Build For Future) Hackathon organised by Delhi Technological University(DTU)
 
-Team DEVils present to you DextroVerse : The Future of ed-tech and beyond
-
-The website is deployed at https://devils-mait.github.io/Dextroverse and provides 4 features namely :
+This website showcased to you the The Future of ed-tech and beyond
+It is live at https://graceful-cajeta-86583c.netlify.app/ and provides 4 features namely :
 1) VR classroom
 2) AR learning
 3) Disaster Experience 
 4) Monument Venture
-
-The AR learning feature ,VR classroom feature and Monument Venture feature are fully implemented and working on the website. 
-On a few browsers, the VR feature will take about 30 seconds to load completely.
-
-The Disaster Experience feature is implemented locally,
-so we are attaching the corresponding video in the website only for reference.
-
-Regards
-Team DEVils
